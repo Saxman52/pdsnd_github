@@ -1,8 +1,8 @@
 >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
 
 ### Date created
-Bikeshare.py creation date: 10/05/2024
-README.md creation date: 10/12/2024
+* Bikeshare.py creation date: 10/05/2024
+* README.md creation date: 10/12/2024
 
 ### Udacity Python "Bikeshare.py" project
 
