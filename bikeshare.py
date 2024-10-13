@@ -258,7 +258,9 @@ def trip_duration(city_file, time_period, user_filter):
         
     # Getting the total and average trip durations based on the filter selected
     durations = []
+    # Appending the sum of all trip durations (based on user selected filter)
     durations.append(df['Trip Duration'].sum())
+    # Appending the average of all trip durations (based on user selected filter)
     durations.append(df['Trip Duration'].mean())
 
     return durations
