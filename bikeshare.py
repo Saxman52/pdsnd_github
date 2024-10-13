@@ -678,7 +678,6 @@ def statistics():
     start_time = time.time()
 
     # What is the most popular start station and most popular end station?
-    # TODO: call popular_stations function and print the results
 
     # Checking which time period was selected and running the popular_stations() function using the approprate filter value (ex. month, day, no filter)
     if time_period == 'month':
