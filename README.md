@@ -23,6 +23,8 @@ The user has the choice to of three different cities and can filter by month, da
 * washington.csb
 
 ### Credits
+* [Udacity](Udacity.com) - Extremely important learning website that taught me the basics of Python, Git, and SQL
 * [StackOverflow](StackOverflow.com) - Helped with concatenating columns in a DataFrame
 * [Google](Google.com) - Largely helped with basic function/module utilization
 * [Python](docs.python.org) - Helped with datetime and timeit modules
+
