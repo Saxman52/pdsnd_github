@@ -573,6 +573,7 @@ def display_data(city_file, time_period, user_filter):
                     print('No more data to show')
                     display = 'no'
                     break
+                # If index is not out of range - it will return the next 5 lines of raw data
                 else:
                     print(df.iloc[counter-5:counter])
                     counter += 5
